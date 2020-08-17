@@ -1,1 +1,1 @@
-selenium test to open google.com and search images for iron man
+selenium test to open google.com and searching for iron man and further choosing images tab
